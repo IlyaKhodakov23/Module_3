@@ -29,7 +29,6 @@
                 Console.ForegroundColor = ConsoleColor.Black;
 
                 Console.WriteLine("Your color is cyan!");
-                123
             }
         }
     }
