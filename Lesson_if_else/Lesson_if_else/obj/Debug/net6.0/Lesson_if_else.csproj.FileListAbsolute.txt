@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\bin\Debug\net6.0\Lesson_if_else.exe
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\bin\Debug\net6.0\Lesson_if_else.deps.json
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\bin\Debug\net6.0\Lesson_if_else.runtimeconfig.json
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\bin\Debug\net6.0\Lesson_if_else.dll
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\bin\Debug\net6.0\Lesson_if_else.pdb
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.AssemblyInfo.cs
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.dll
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\refint\Lesson_if_else.dll
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.pdb
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\Lesson_if_else.genruntimeconfig.cache
+C:\Users\Илья\Desktop\IT\C#\Practicum\Git\Lesson_if_else\Lesson_if_else\obj\Debug\net6.0\ref\Lesson_if_else.dll
